@@ -1,4 +1,5 @@
 # sqlite-python-assigment
+#screenshots are to be added
 
 Lillebaelt Academy of 
 University of applied sciences
